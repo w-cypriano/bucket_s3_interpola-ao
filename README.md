@@ -1,1 +1,1 @@
-# bucket_s3_interpola-ao
+# Criando um bucket s3 usando a função random_pet e interpolação para definir o nome do bucket.
