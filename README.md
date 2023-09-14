@@ -9,5 +9,5 @@ ex1.: "Hello ${var.name}!"
 ex2.: bucket = "${random_pet.mybucket.id}-${var.environment}"  
 // Concatenação de uma função e uma variável.  
 
-Neste caso, estamos usando a função Random_pet. Esta função que gera nomes aleatórios e aqui ela foi usada gerar um nome aleatório para nosso bucket.
+Neste caso, estamos usando a função Random_pet. Esta função gera texto aleatórios e aqui ela foi usada gerar um nome aleatório para nosso bucket.
 
