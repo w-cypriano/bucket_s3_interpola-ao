@@ -4,7 +4,7 @@ INTERPOLAÇÃO:
 Com interpolação você consegui concatenar strings com uma expressão.  A expressão pode ser variável ou retorno de uma função.
 
 ex1.: "Hello ${var.name}!" 
-// Concatenação de string e variável
+&nbsp; // Concatenação de string e variável &nbsp;.
   
 ex2.: bucket = "${random_pet.mybucket.id}-${var.environment}"  
 // Concatenação de uma função e uma variável.
